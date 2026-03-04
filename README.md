@@ -80,7 +80,7 @@ Markdown语法支持添加 `emoji` 表情，输入不同的符号码（两个冒
 | :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
 | :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :rage1: `:rage1:` |
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
-| :suspect: `:suspect:` | :trollface: `:trollface:` | 
+| :suspect: `:suspect:` | :trollface: `:trollface:` | :hugs: `:hugs:` |
 
 ## 自然 ##
 
